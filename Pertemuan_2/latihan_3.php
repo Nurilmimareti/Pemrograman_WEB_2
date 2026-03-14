@@ -4,7 +4,7 @@
 <h2>Perhitungan Sederhana</h2>
 <?php
 $a = 10;
-$b = 20;
+$b = 30;
 $hasil = $a + $b;
 echo "Hasil penjumlahan $a + $b = $hasil";
 ?>
