@@ -9,3 +9,5 @@ $e = "Number";
 $f = $e.$d;   // hasil: "Number13"
 echo $f;
 ?>
+
+//BY NUR ILMI - 221011400755
