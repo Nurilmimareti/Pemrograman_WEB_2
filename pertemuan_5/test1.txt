@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Hello, this is a test file.
 There are three lines here.
 This is the last line.
+=======
+Hello, this is a test file.
+There are three lines here.
+This is the last line.
+>>>>>>> d428e9627f68f2b273a48c354e34965612138d18
 hadkvj
